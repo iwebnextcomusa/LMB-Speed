@@ -1,0 +1,6 @@
+{
+  "name": "LMB Speed",
+  "description": "High-performance automotive, tuning, fabrication, and diagnostics shop in Springfield, MO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
